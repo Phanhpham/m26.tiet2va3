@@ -7,7 +7,7 @@
       "phoneNumber": "012345678",
       "email": "phanh2@gmail.com",
       "password": "1234567",
-      "status": false
+      "status": true
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "phoneNumber": "012345678",
       "email": "phanlan@gmail.com",
       "password": "1234567",
-      "status": true
+      "status": false
     },
     {
       "id": 3,
